@@ -6,7 +6,7 @@
 - 📞 I'm a brazilian software engineering focused on iOS Development since 2016.
 - 💬 Be free to ask me anything, in technical terms I like to talk about: `Clean Architecture` and `iOS`.
 - 🌱 Learning more about and studying: Backend development with `Python` and `Flask`, `French` because I live in Quebec ⚜.
-- 👨‍💻 I’m currently working full-time remotely at [<img height="12" src="https://www.cgi.com/sites/default/files/cgi-logo-red.jpg">](https://cgi.com) as an iOS Developer
+- 👨‍💻 I’m currently working full-time from home at [<img height="12" src="https://www.cgi.com/sites/default/files/cgi-logo-red.jpg">](https://cgi.com) as an iOS Developer
 - 📃 I blog here: https://medium.com/@hoffsilva
 - 👏 I love dogs, especially the Dachshunds, I love to ride a bike and take advantage of the nature with my heart's people.
 
